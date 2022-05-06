@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "ticks_systick.h": "c"
+        "ticks_systick.h": "c",
+        "stm32f1xx.h": "c",
+        "main.h": "c"
     }
 }
